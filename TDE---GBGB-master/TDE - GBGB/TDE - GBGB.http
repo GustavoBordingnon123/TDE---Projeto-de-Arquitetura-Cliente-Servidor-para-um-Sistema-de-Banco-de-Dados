@@ -1,0 +1,6 @@
+@TDE___GBGB_HostAddress = http://localhost:5208
+
+GET {{TDE___GBGB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
